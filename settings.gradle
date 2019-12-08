@@ -1,0 +1,4 @@
+rootProject.name = 'spring-boot'
+include 'spring-tutorial-one-part-three'
+include 'spring-tutorial-one-part-four'
+include 'spring-tutorial-one-part-one-and-two'

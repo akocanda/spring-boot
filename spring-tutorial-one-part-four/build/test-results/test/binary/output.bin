@@ -1,0 +1,8 @@
+±14:31:26.376 [Test worker] DEBUG org.springframework.web.client.RestTemplate - HTTP GET https://maps.googleapis.com/maps/api/geocode/json?address=Westville,706%20Ann%20Drive,IL
+}14:31:26.418 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Accept=[application/json, application/*+json]
+_14:31:26.691 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Response 200 OK
+14:31:26.694 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Reading to [com.geocoder.domain.GeocoderResult]
+±14:32:55.699 [Test worker] DEBUG org.springframework.web.client.RestTemplate - HTTP GET https://maps.googleapis.com/maps/api/geocode/json?address=Westville,706%20Ann%20Drive,IL
+}14:32:55.699 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Accept=[application/json, application/*+json]
+_14:32:56.803 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Response 200 OK
+14:32:56.804 [Test worker] DEBUG org.springframework.web.client.RestTemplate - Reading to [com.geocoder.domain.GeocoderResult]
