@@ -3,3 +3,4 @@
 /spring-tutorial-one-part-one-and-two/build/
 /spring-tutorial-one-part-three/build/
 /.gradle/
+.DS_Store
